@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "tend-vir",
+  "compatibility_date": "2026-05-15",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "Tendencia_virales"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
